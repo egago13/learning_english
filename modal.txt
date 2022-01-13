@@ -6,3 +6,11 @@ Should = Obligation : We should obey our parents
 
 Need not = Immediate necessity : We needn't buy our tickets now
 	   Permission (Not to do something) : You needn't come to college tomorrow
+
+Must = Obligation, Logical Necessity (Rules)
+
+Ought to = Obligation, Probability
+
+set 8 sama dr ayu /tasya
+
+senin - jumat 7-11
