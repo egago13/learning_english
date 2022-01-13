@@ -3,3 +3,6 @@ Dare = Have to courage to / not to have the courage to
 
 Should = Obligation : We should obey our parents
 	 Probability : He should be in London now
+
+Need not = Immediate necessity : We needn't buy our tickets now
+	   Permission (Not to do something) : You needn't come to college tomorrow
