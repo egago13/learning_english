@@ -10,7 +10,7 @@ Need not = Immediate necessity : We needn't buy our tickets now
 Must = Obligation, Logical Necessity (Rules)
 
 Ought to = Obligation, Probability
-
+cd Document
 set 8 sama dr ayu /tasya
 
 senin - jumat 7-11
